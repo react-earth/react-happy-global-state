@@ -35,10 +35,12 @@ npm install react-happy-global-state
 ```tsx
 import { createGlobalState } from 'react-happy-global-state';
 
+// define you GlobalState type
 type GlobalState = {
   count: number;
 };
 
+// set your default global state
 const DEFAULT_GLOBAL_STATE: GlobalState = {
   count: 0,
 };
@@ -58,8 +60,10 @@ import { GlobalStateProvider } from './store';
 
 const container = document.getElementById('root');
 const root = createRoot(container!);
+
 root.render(
   <React.StrictMode>
+    {/* use GlobalStateProvider wrap your App  */}
     <GlobalStateProvider>
       <App />
     </GlobalStateProvider>
@@ -74,6 +78,7 @@ import React from 'react';
 import { useGlobalState } from './store';
 
 export const Counter = () => {
+  // use useGlobalState hook to get/set your global state
   const [count, setCount] = useGlobalState('count');
 
   return (
