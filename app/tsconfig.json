@@ -1,0 +1,19 @@
+{
+  "include": ["./src"],
+  "references": [{ "path": "./tsconfig.node.json" }],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "module": "esnext",
+    "target": "es5",
+    "lib": ["es2020", "dom"],
+    "jsx": "react",
+    "moduleResolution": "node",
+    "removeComments": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "paths": {
+      "react-happy-global-state": ["../src"]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "author": "easilyjs",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "@types/react-dom": "^18.0.0",
+    "@vitejs/plugin-react": "^1.0.0",
+    "typescript": "^4.8.4",
+    "vite": "^2.8.0",
+    "vite-tsconfig-paths": "^3.4.0"
+  }
+}
