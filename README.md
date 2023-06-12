@@ -6,7 +6,7 @@
 <a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
   <img src="https://img.shields.io/npm/v/react-happy-global-state" alt="version">
 </a>
-<a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
+<!-- <a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
   <img alt="minzip" src="https://img.shields.io/bundlephobia/minzip/react-happy-global-state" />
 </a>
 <a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
@@ -14,7 +14,7 @@
 </a>
 <a href="https://github.com/react-earth/react-happy-global-state" target="\_parent">
   <img alt="license" src="https://img.shields.io/npm/l/react-happy-global-state" />
-</a>
+</a> -->
 
 ## Quick Features 🥳
 
