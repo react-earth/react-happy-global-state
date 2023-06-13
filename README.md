@@ -6,12 +6,12 @@
 <a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
   <img src="https://img.shields.io/npm/v/react-happy-global-state" alt="version">
 </a>
-<!-- <a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
-  <img alt="minzip" src="https://img.shields.io/bundlephobia/minzip/react-happy-global-state" />
+<a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
+  <img alt="minzip" src="https://img.badgesize.io/https:/unpkg.com/react-happy-global-state@latest/dist/index.esm.js?compression=gzip" />
 </a>
 <a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
   <img alt="downloads" src="https://img.shields.io/npm/dm/react-happy-global-state.svg" />
-</a> -->
+</a>
 <a href="https://github.com/react-earth/react-happy-global-state" target="\_parent">
   <img alt="license" src="https://img.shields.io/npm/l/react-happy-global-state" />
 </a>
