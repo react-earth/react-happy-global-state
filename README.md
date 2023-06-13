@@ -11,10 +11,10 @@
 </a>
 <a href="https://www.npmjs.com/package/react-happy-global-state" target="\_parent">
   <img alt="downloads" src="https://img.shields.io/npm/dm/react-happy-global-state.svg" />
-</a>
+</a> -->
 <a href="https://github.com/react-earth/react-happy-global-state" target="\_parent">
   <img alt="license" src="https://img.shields.io/npm/l/react-happy-global-state" />
-</a> -->
+</a>
 
 ## Quick Features 🥳
 
@@ -90,3 +90,5 @@ export const Counter = () => {
   );
 };
 ```
+
+[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/demo-5fvh56)
